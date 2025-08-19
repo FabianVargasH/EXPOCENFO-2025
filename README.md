@@ -19,7 +19,7 @@ FANAX es un **asistente personal inteligente** diseñado para revolucionar tu pr
 
 ---
 
-##🎯 Problemática
+## 🎯 Problemática
 
 ### El Desafío
 - **Espacios de trabajo "tontos"**: Falta de soluciones inteligentes de bajo costo
@@ -67,7 +67,7 @@ graph TD
 - **💡Feedback Visual**: Sistema de LED para indicar estados de concentración, distracción o cambios de rutina
 - **🚀Escalabilidad**: Arquitectura preparada para integrar sensores reales en futuras versiones
 
-###💬 Ejemplos de Sugerencias IA
+### 💬 Ejemplos de Sugerencias IA
 - *"Es hora de tomar un descanso, llevas 2 horas concentrado"*
 - *"Perfecto momento para retomar el trabajo"*
 - *"Tu productividad es mayor en las mañanas"*
